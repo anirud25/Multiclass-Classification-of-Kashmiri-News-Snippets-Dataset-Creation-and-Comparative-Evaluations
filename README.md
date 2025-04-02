@@ -1,7 +1,7 @@
 # Kashmiri News Domain Dataset and Code 
 
 ## Overview  
-The Sample dataset contains Kashmiri news snippets and their corresponding domain classifications, developed as part of an NLP project to enhance Kashmiri language processing capabilities.  
+The Sample dataset contains 2000 Kashmiri news snippets and their corresponding domains, developed as part of an NLP project to enhance Kashmiri language processing capabilities.  
 
 ## Features  
 - **Language**: Kashmiri  
