@@ -1,7 +1,7 @@
 # Kashmiri News Domain Dataset and Code 
 
 ## Overview  
-This dataset contains Kashmiri news snippets and their corresponding domain classifications, developed as part of an NLP project to enhance Kashmiri language processing capabilities.  
+The dataset contains Kashmiri news snippets and their corresponding domain classifications, developed as part of an NLP project to enhance Kashmiri language processing capabilities.  
 
 ## Features  
 - **Language**: Kashmiri  
@@ -9,12 +9,12 @@ This dataset contains Kashmiri news snippets and their corresponding domain clas
 - **Applications**: NLP tasks such as domain classification, topic modeling, and text analysis  
 
 ## Format  
-The dataset is provided in [xlsx], with the following columns:  
+The dataset will be provided in [xlsx], with the following columns:  
 - `Kashmiri`: The news snippet in the Kashmiri language  
 - `Domain`: The domain classification (e.g., Politics, Sports, Medical, etc.)
 ## Access to Dataset
-If you wish to access this dataset, please email deheembhat9@gmail.com with your request and the reason for your work. A password to unlock the dataset will be provided upon approval.
+If you wish to access this dataset, please email deheembhat9@gmail.com with your request and the reason for your work. The dataset will be provided upon approval.
 
 ## Citation  
 If you use this dataset, please acknowledge the author(s):  
-[Deheem U Deyar]  
+[Deheem U Deyar] [R Anirud] 
