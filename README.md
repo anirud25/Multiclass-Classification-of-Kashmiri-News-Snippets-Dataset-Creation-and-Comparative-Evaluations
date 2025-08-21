@@ -11,8 +11,8 @@ The Sample dataset contains 2000 Kashmiri news snippets and their corresponding 
 ## Format  
 The Final dataset will be provided in [xlsx], with the following columns:  
 - `Kashmiri`: The news snippet in the Kashmiri language  
-- `Domain`: The domain classification (e.g., Politics, Sports, Medical, etc.)
+- `Domain`: The domain classification into 10 domains (e.g., Politics, Sports, Medical, etc.)
 
 ## Citation  
 If you use this dataset, please acknowledge the author(s):  
-[Deheem U Deyar] [R Anirud] 
+[Deheem U Deyar] [Anirud Ramani] 
