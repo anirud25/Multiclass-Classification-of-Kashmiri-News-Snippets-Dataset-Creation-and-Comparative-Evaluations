@@ -25,6 +25,7 @@ This repository also contains code for experiments on:
 Folder: `Similarity_BLEU_Tokenizer_Experiments`
 
 ## Citation
+Research work not to be reproduced, please contact the authors to obtain permissions for dataset/ code.
 If you use this dataset or code, please acknowledge the authors:  
 - [Deheem U Deyar]  
 - [Anirud Ramani] 
