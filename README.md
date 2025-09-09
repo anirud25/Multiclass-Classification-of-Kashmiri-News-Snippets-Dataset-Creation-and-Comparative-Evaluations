@@ -27,4 +27,4 @@ Folder: `Similarity_BLEU_Tokenizer_Experiments`
 ## Citation
 If you use this dataset or code, please acknowledge the authors:  
 - [Deheem U Deyar]  
-- [R Anirud] 
+- [Anirud Ramani] 
