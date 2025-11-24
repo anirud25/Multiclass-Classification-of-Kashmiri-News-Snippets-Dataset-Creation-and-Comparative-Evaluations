@@ -26,7 +26,11 @@ Folder: `Similarity_BLEU_Tokenizer_Experiments`
 
 ## Citation
 Research work not to be reproduced, please contact the authors to obtain permissions for dataset/ code.
-Published in Open Access Scientific Reports Journal. Journal Article-  [Dataset creation and benchmarking for Kashmiri news snippet classification using fine-tuned transformer and LLM models in a low resource setting](https://www.nature.com/articles/s41598-025-24451-4)
+Published in Open Access Scientific Reports Journal. 
+
+Journal Article-  [Dataset creation and benchmarking for Kashmiri news snippet classification using fine-tuned transformer and LLM models in a low resource setting](https://www.nature.com/articles/s41598-025-24451-4)
+
+
 If you use this code or build upon this work, please cite our paper:  
 ```Deyar, D.U., Ramani, A., Gupta, D. et al. Dataset creation and benchmarking for Kashmiri news snippet classification using fine-tuned transformer and LLM models in a low resource setting. Sci Rep 15, 40828 (2025). https://doi.org/10.1038/s41598-025-24451-4```
 
