@@ -62,22 +62,12 @@ This repository includes code for the following experiments:
 ---
 
 ## Citation
-If you use this dataset or code in your research, **please cite the following paper**:
+Research work not to be reproduced, please contact the authors to obtain permissions for dataset/ code.
+Published in Open Access Scientific Reports Journal. 
 
-> Deyar, D. U., Ramani, A., Gupta, D., Nair, P. C., & Venugopalan, M.  
-> *Dataset creation and benchmarking for Kashmiri news snippet classification using fine-tuned transformer and LLM models in a low resource setting*.  
-> **Scientific Reports**, 15, 40828 (2025).  
-> https://doi.org/10.1038/s41598-025-24451-4
+Journal Article-  [Dataset creation and benchmarking for Kashmiri news snippet classification using fine-tuned transformer and LLM models in a low resource setting](https://www.nature.com/articles/s41598-025-24451-4)
 
-### BibTeX
-```bibtex
-@article{Deyar2025,
-  title   = {Dataset creation and benchmarking for Kashmiri news snippet classification using fine-tuned transformer and LLM models in a low resource setting},
-  author  = {Deyar, Deheem U. and Ramani, Anirud and Gupta, Deepa and Nair, Priyanka C. and Venugopalan, Manju},
-  journal = {Scientific Reports},
-  volume  = {15},
-  number  = {1},
-  pages   = {40828},
-  year    = {2025},
-  doi     = {10.1038/s41598-025-24451-4}
-}
+
+If you use this code or build upon this work, please cite our paper:  
+```Deyar, D.U., Ramani, A., Gupta, D. et al. Dataset creation and benchmarking for Kashmiri news snippet classification using fine-tuned transformer and LLM models in a low resource setting. Sci Rep 15, 40828 (2025). https://doi.org/10.1038/s41598-025-24451-4```
+
